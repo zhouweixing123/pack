@@ -1,0 +1,19 @@
+{
+    "name": "zwx/test",
+    "description": "this is a test.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zwx",
+            "email": "17736230247@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Zwx\\Test": "src/"
+        }
+    }
+}
